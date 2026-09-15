@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 1fa8fa4c13660efc3f0dd2cef984c537a6a484dd Tomas Horyl <tomas.horyl@proton.me> 1789208886 +0200	branch: Created from HEAD
+1fa8fa4c13660efc3f0dd2cef984c537a6a484dd c616e37759e0ccfa3dc910afc01e2dd891a3bfde Tomas Horyl <tomas.horyl@proton.me> 1789208922 +0200	commit: restart config from scratch
+c616e37759e0ccfa3dc910afc01e2dd891a3bfde 53a42e305124d18f4eb521f166b1ffa0aa30159b Tomas Horyl <tomas.horyl@proton.me> 1789209300 +0200	commit: add basic lua-editing config
+53a42e305124d18f4eb521f166b1ffa0aa30159b f8b718a0230b10a60fc07ff77f9d0dbb0164ead7 Tomas Horyl <tomas.horyl@proton.me> 1789209704 +0200	commit: add fallback colorscheme config
+f8b718a0230b10a60fc07ff77f9d0dbb0164ead7 7344a7765dbf0002af2bd2e82a26b3f59de59fc1 Tomas Horyl <tomas.horyl@proton.me> 1789209729 +0200	commit: add basic Netrw config
+7344a7765dbf0002af2bd2e82a26b3f59de59fc1 ec5c077c49d4633c7d0be68cf69881da210b306e Tomas Horyl <tomas.horyl@proton.me> 1789210192 +0200	commit: add autocommands
+ec5c077c49d4633c7d0be68cf69881da210b306e c3998d0667bd008b53dfe68d5e6eb0124fa05bb5 Tomas Horyl <tomas.horyl@proton.me> 1789212287 +0200	commit: add plugins, LSP and Telescope
+c3998d0667bd008b53dfe68d5e6eb0124fa05bb5 99237d3e247ddbf925d4da85103462c4039f66cb Tomas Horyl <tomas.horyl@proton.me> 1789404606 +0200	commit: add gitsigns plugin
+99237d3e247ddbf925d4da85103462c4039f66cb 23eab7a604ecf97cdd94e0b884eeaca08a125130 Tomas Horyl <tomas.horyl@proton.me> 1789457068 +0200	commit: add mini plugins
